@@ -30,8 +30,7 @@ def get_bracket(game_mode):
     return [
       1e6,
       3e5, 1e5,
-      # fix 3.5 to 2
-      5e4, 3.5e4,
+      5e4, 2e4,
       8e3, 2e3,
       500, 100,
       50, 20,
